@@ -1,7 +1,7 @@
 # README
 
 <p align="center">
-  <img src="https://github.com/aknrg77-scaler/todo/app/assets/images/ruby.png" alt="todo"/>
+  <img src="https://github.com/aknrg77-scaler/todo/blob/main/app/assets/images/ruby.png" alt="todo"/>
 </p>
 
 This README would normally document whatever steps are necessary to get the
